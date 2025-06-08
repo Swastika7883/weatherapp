@@ -4,7 +4,7 @@ A simple and responsive weather application built using HTML, CSS, and JavaScrip
 
 ## 🌐 Live Demo
 
-[Click here to view the live app](https://adorable-nougat-61bd66.netlify.app) *(Replace with your live site URL if deployed)*
+[Click here to view the live app](https://adorable-nougat-61bd66.netlify.app) 
 
 ## 📸 Screenshot
 
