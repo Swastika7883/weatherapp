@@ -25,9 +25,3 @@ A simple and responsive weather application built using HTML, CSS, and JavaScrip
 - JavaScript (Vanilla JS)
 - [OpenWeatherMap API](https://openweathermap.org/api)
 
-## 🛠️ Getting Started
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/weather-app.git
-# weatherapp
