@@ -6,9 +6,6 @@ A simple and responsive weather application built using HTML, CSS, and JavaScrip
 
 [Click here to view the live app](https://adorable-nougat-61bd66.netlify.app) 
 
-## 📸 Screenshot
-
-![Weather App Screenshot](screenshot.png) *(Include a screenshot image in your repo)*
 
 ## 🚀 Features
 
@@ -19,7 +16,7 @@ A simple and responsive weather application built using HTML, CSS, and JavaScrip
   - Humidity
   - Wind speed
 - Responsive UI
-- Dynamic weather icons (optional)
+- Dynamic weather icons 
 
 ## 🔧 Tech Stack
 
